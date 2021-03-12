@@ -1,6 +1,6 @@
-# flutter_skate_shop
+# Flutter Skate Shop
 
-A new Flutter project.
+- [Dribbble](https://dribbble.com/shots/6779026-One-Hour-UI-Challenge-34-Skate-shop)
 
 ## Getting Started
 
